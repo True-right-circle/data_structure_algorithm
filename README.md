@@ -12,9 +12,9 @@
 
 
 # List
-******* python *******
-master/Python
+python
+dir : master/Python
 Stack, Queue, Linked list, Double Linked list
-***********************
+
 
 Last Update : 2021.04.09
