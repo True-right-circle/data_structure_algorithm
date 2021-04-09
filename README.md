@@ -11,10 +11,9 @@
  - 자료구조, 알고리즘 외에도 특히 Unity 관련 개발에 유용한 로직이나 코드를 짜게 되면 같이 공유할 예정입니다.
 
 
-# List
-python
-dir : master/Python
-Stack, Queue, Linked list, Double Linked list
+# python
+- dir : master/Python
+- Stack, Queue, Linked list, Double Linked list
 
 
 Last Update : 2021.04.09
